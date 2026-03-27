@@ -250,16 +250,15 @@ If you find this paper helpful, please consider citing:
   publisher={Wiley Online Library}
 }
 ```
-# Star History
-<p align="center">
-  <a href="https://www.star-history.com/#mikami520/AutoSeg4ETICA&Date">
-   <picture>
-     <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=mikami520/AutoSeg4ETICA&type=Date&theme=dark" />
-     <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=mikami520/AutoSeg4ETICA&type=Date" />
-     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=mikami520/AutoSeg4ETICA&type=Date" />
-   </picture>
-  </a>
-</p>
+## Star History
+
+<a href="https://www.star-history.com/?repos=YuliangXiaoYLX%2FAutoSeg4ETICA&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/image?repos=YuliangXiaoYLX/AutoSeg4ETICA&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/image?repos=YuliangXiaoYLX/AutoSeg4ETICA&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/image?repos=YuliangXiaoYLX/AutoSeg4ETICA&type=date&legend=top-left" />
+ </picture>
+</a>
 
 ---
 <div align="center">

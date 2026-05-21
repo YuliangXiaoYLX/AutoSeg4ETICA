@@ -64,7 +64,7 @@ the ET.
 ### Step 1: Fork This GitHub Repository 
 
 ```bash
-git clone https://github.com/mikami520/AutoSeg4ETICA.git && cd AutoSeg4ETICA
+git clone https://github.com/YuliangXiaoYLX/AutoSeg4ETICA.git && cd AutoSeg4ETICA
 ```
 
 ### Step 2: Set Up Two Environments Using requirements.txt Files (virtual environment is recommended)

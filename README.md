@@ -61,7 +61,7 @@ the ET.
 
 ## Installation
 
-### Step 1: Fork This GitHub Repository 
+### Step 1: Clone This GitHub Repository 
 
 ```bash
 git clone https://github.com/YuliangXiaoYLX/AutoSeg4ETICA.git && cd AutoSeg4ETICA
